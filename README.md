@@ -1,0 +1,1 @@
+# swagger_auto_generator
