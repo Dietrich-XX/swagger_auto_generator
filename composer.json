@@ -1,0 +1,22 @@
+{
+    "name": "dietrich_xx/swagger-auto-generator",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DietrichXX\\SwaggerAutoGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dima Pidchenko",
+            "email": "dima.pidchenko@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+      "php": "^8.1",
+      "illuminate/support": "^10.0",
+      "dedoc/scramble": "^0.13.11"
+    }
+}
